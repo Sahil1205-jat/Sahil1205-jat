@@ -17,8 +17,8 @@
 
 - 📫 How to reach me **sahilsepat2@gmail.com**
 
-- 📄 Know about my experiences [* 🚀 **Founder** at **ADI Tech Solutions** (2024 - Present) — Developing client-facing full-stack web applications using the MERN stack. * 💼 **Web Developer Intern** at **Zidio Development** (06/2025 - 08/2025) — Built backend modules and optimized features for core projects. * 🎓 **B.Tech in Computer Science** at **Global Institute of Technology, Jaipur** (2024 - 2028).](* 🚀 **Founder** at **ADI Tech Solutions** (2024 - Present) — Developing client-facing full-stack web applications using the MERN stack. * 💼 **Web Developer Intern** at **Zidio Development** (06/2025 - 08/2025) — Built backend modules and optimized features for core projects. * 🎓 **B.Tech in Computer Science** at **Global Institute of Technology, Jaipur** (2024 - 2028).)
-
+- 📄 Know about my experiences [* 🚀 **Founder** at **ADI Tech Solutions** (2024 - Present) — Developing client-facing full-stack web applications using the MERN stack. *
+- 💼 **Web Developer Intern** at **Zidio Development** (06/2025 - 08/2025) — Built backend modules and optimized features for core projects. * 🎓 **B.Tech in Computer Science** at **Global Institute of Technology, Jaipur** (2024 - 2028).]
 - ⚡ Fun fact **I code without AI when I am bored.**
 
 <h3 align="left">Connect with me:</h3>
